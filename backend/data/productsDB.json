@@ -1,0 +1,102 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "productName": "Alocasia Frydek",
+            "price": 30,
+            "quantity": 3,
+            "description": "The Alocasia micholitziana ‘Frydek’ is native to subtropical Asia and Australia. This plant appreciates a bright and humid environment in the home or office. Its velvet dark green leaves are shaped like an arrowhead with highly defined silvery green veins. Regular waterings, plenty of light, and added humidity such as misting will keep your Alocasia looking its best."
+        },
+        {
+            "id": 2,
+            "productName": "Sansevieria Lauren",
+            "price": 19,
+            "quantity": 2,
+            "description": "Sansevieria is THE plant you can forget about. Just don't over-water it! One of the most popular houseplants and one of the best air purifiers, the sansevieria thrives in all types of conditions, from dimly lit spaces to offices that love to crank the AC. Impress the known plant killers among your family and friends with a plant they'll be able to keep alive for years to come. The roots of this plant are thick tubers that hold on to water for extended periods. It's very sensitive to over-watering, so be sure to only water when the soil is dry."
+        },
+        {
+            "id": 3,
+            "productName": "Monstera Deliciosa",
+            "price": 17,
+            "quantity": 3,
+            "description": "Start your deliciosa dream small with this juvenile Monstera specimen. Its famed perforated lobes haven't formed yet, but don't worry, with some love and a little light you'll be in split leaf Shangri-La in no time. Monstera deliciosa is native to the rain forests of Mexico and Central America. As a sub-canopy plant, monsteras are tolerant of lower light conditions, but will grow more quickly and evenly in bright indirect light."
+        },
+        {
+            "id": 4,
+            "productName": "Bird's Nest Fern",
+            "price": 17,
+            "quantity": 3,
+            "description": "The Bird’s Nest Fern Victoria (Asplenium nidus ‘Victoria’) is an epiphytic plant that has naturalized to the tropical climates of southeast Asia, Africa, Australia, and Hawaii, among others. The Victoria variety of bird’s nest fern is known for its bright green, wavy edged leaves that fan out from a central point, resembling the shape of a birds nest. This fern is easier to care for than most, and can tolerate medium to medium-low light conditions. As with most ferns, the bird’s nest enjoys high humidity and will appreciate regular misting."
+        },
+        {
+            "id": 5,
+            "productName": "Sansevieria Zeylan",
+            "price": 30,
+            "quantity": 3,
+            "description": "Sansevieria is THE plant you can forget about. Just don't over-water it! One of the most popular houseplants and one of the best air purifiers, the sansevieria thrives in all types of conditions, from dimly lit spaces to offices that love to crank the AC. Impress the known plant killers among your family and friends with a plant they'll be able to keep alive for years to come. The roots of this plant are thick tubers that hold on to water for extended periods. It's very sensitive to over-watering, so be sure to only water when the soil is dry."
+        },
+        {
+            "id": 6,
+            "productName": "Aglaonema Marie",
+            "price": 18,
+            "quantity": 3,
+            "description": "Aglaonema Maria is one of the easiest indoor plants to own and is tolerant of low light conditions and infrequent watering. Native to the Philippines, Aglaonema Maria has beautiful, slow-growing foliage that makes a wonderful accent to any space. This is one of only a few plants that can survive under florescent lighting alone making is a great choice for low light office spaces."
+        },
+        {
+            "id": 7,
+            "productName": "Pothos Marble Queen",
+            "price": 17,
+            "quantity": 3,
+            "description": "The Marble Queen Pothos (epipremnum aureum ‘marble queen’)  is a versatile and easy to care for houseplant. Although it is native to Polynesia, pothos can be found in many tropical environments. Also known as devil’s ivy, this plant can grow long cascading vines and pairs well with a hanging planter or standard planter placed up on a shelf. The marble queen variety is known for its bright green heart shaped leaves that show a splattered bright white variegation."
+        },
+        {
+            "id": 8,
+            "productName": "Philodendron Mi",
+            "price": 18,
+            "quantity": 3,
+            "description": "Philodendron micans exhibits velvety, heart-shaped leaves that grow as cascading vines over time. The color of the micans foliage is what makes it truly special. New leaves emerge with a bright yellow/green tone that shifts to pink and finally settles into a luxurious green/purple with bronzy undertones. Best of all, Philodendron micans is easy to care for and will grow quickly in medium light with regular waterings. "
+        },
+        {
+            "id": 9,
+            "productName": "Calathea Makoyana",
+            "price": 19,
+            "quantity": 3,
+            "description": "Calathea is a genus of several dozen species within the Marantaceae family, native to Brazil and Central America. Several varieties of this plant have become highly valued as house plants due to their unique foliage consisting of velvety patterned leaves. They are surprisingly durable plants, and can bounce right back from dehydration. In its natural habitat, the calathea is a forest floor dwelling plant which enjoys the shade provided by the plush tropical canopy over head. While it can survive in low light conditions, it may lose its striking color."
+        },
+        {
+            "id": 10,
+            "productName": "Philodendron Prince",
+            "price": 20,
+            "quantity": 3,
+            "description": "The 'Prince of Orange' is a uniquely colored plant whose leaves start off a starburst yellow when newly grown, transitioning to copper tones and finally settling into darker shades of green over time. Prince of Orange is a low-humidity tolerant hybrid variety making it a great choice for growing indoors in homes and offices. It prefers bright light and consistently moist soil and rewards regular watering with big-leaf growth."
+        },
+        {
+            "id": 11,
+            "productName": "Fiddle Leaf Fig",
+            "price": 17,
+            "quantity": 3,
+            "description": "The little fiddle has arrived! This bite-sized version of one of our top sellers boasts the same striking foliage as its stately siblings, only you can fit it in the palm of your hand. It's a great option to get used to the care requirements of the fiddle leaf if you're thinking about upgrading later on. Or, take good care of this little guy and watch him grow! The fiddle ­leaf fig, or Ficus lyrata, is a species of plant within the fig genus native to the lowland tropical rainforests of Western Africa. It has a broad canopy with large, rigid leaves and prefers a high light space. When cared for properly, fiddle leafs grow quickly, and a small tree can double in size in as few as six months."
+        },
+        {
+            "id": 12,
+            "productName": "Philodendron Brasil",
+            "price": 16,
+            "quantity": 3,
+            "description": "Philodendron brasil exhibits velvety, heart-shaped leaves that grow as cascading vines over time. The color of the micans foliage is what makes it truly special. New leaves emerge with a bright yellow/green tone that shifts to pink and finally settles into a luxurious green/purple with bronzy undertones. Best of all, Philodendron micans is easy to care for and will grow quickly in medium light with regular waterings. "
+        },
+        {
+            "id": 13,
+            "productName": "ZZ Plant",
+            "price": 20,
+            "quantity": 3,
+            "description": "The Zamioculcas zamiifolia, better known and more easily pronounced as the ZZ plant, is one of the hardest plants to kill. In fact it’s so tenacious that the ZZ can regenerate itself from a single leaf cutlet. The ZZ's deep green, glossy leaves have a unique spread that look great on their own or in a cluster of plants. The ZZ prefers bright, indirect light, but can grow in low light conditions. The only real environmental concern is to make sure it doesn’t get cold. Keep the temperature above 65ªF and make sure to water it only when the soil is dry, and you’ll enjoy this plant for years to come."
+        },
+        {
+            "id": 14,
+            "productName": "Schefflera Arbor",
+            "price": 20,
+            "quantity": 3,
+            "description": "The dwarf umbrella tree is native to Taiwan, and a mini cousin to the Schefflera Amate. The Schefflera arboricola is often used for Bonsai, however we love its untamed and wild shape. Little tufts of five leaf clusters offer a lush and full shape, but its best feature by far is its tolerance for medium light and little water. This plant does best placed in medium to bright indirect light, and likes a moderate to low amount of water. "
+        }
+    ]
+}

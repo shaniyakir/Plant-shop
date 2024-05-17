@@ -1,0 +1,9 @@
+{
+    "users": [
+        {
+            "user": "admin",
+            "pass": "admin",
+            "loginAmount": 264
+        }
+    ]
+}

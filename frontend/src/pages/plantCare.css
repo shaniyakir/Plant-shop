@@ -1,0 +1,4 @@
+/*change the number below to scale to the appropriate size*/ 
+.image:hover { 
+    transform: scale(1.1); 
+}

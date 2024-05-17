@@ -1,0 +1,34 @@
+{
+    "accessories": [
+        {
+            "id": 100,
+            "productName": "Sheya 15 Ceramic Self Watering Pot",
+            "price": 32,
+            "quantity": 3
+        },
+        {
+            "id": 101,
+            "productName": "Ariana 12 Ceramic Self Watering Pot",
+            "price": 32,
+            "quantity": 3
+        },
+        {
+            "id": 102,
+            "productName": "Ariana 17 Ceramic Self Watering Pot",
+            "price": 49,
+            "quantity": 3
+        },
+        {
+            "id": 103,
+            "productName": "Adams 20 Ceramic Self Watering Pot",
+            "price": 69,
+            "quantity": 3
+        },
+        {
+            "id": 104,
+            "productName": "Jay 17 Ceramic Self Watering Pot",
+            "price": 32,
+            "quantity": 3
+        }
+    ]
+}
